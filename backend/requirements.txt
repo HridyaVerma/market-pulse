@@ -7,4 +7,4 @@ pandas
 python-dotenv
 wordcloud
 matplotlib
-EOF
+numpy
