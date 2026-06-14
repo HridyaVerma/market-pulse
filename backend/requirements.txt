@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+yfinance
+vaderSentiment
+pandas
+python-dotenv
+wordcloud
+matplotlib
+EOF
